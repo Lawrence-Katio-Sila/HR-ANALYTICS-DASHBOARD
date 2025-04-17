@@ -64,37 +64,37 @@ This Power BI dashboard analyzes hr data from jubilyte company, focusing on empl
 
 - Steps 11 : In the report view 5 card visuals(kpis) were added to the canvas to display the total number of employees, attrition count, attrition rate, active count and average age respectively.
 
-  Screenshot of KPIs was added,
+  Screenshot of KPIs chart was added;
 
   ![Image](https://github.com/user-attachments/assets/0d1d8cb1-50be-481b-9927-dc0f9df9c283)
 
 - Step 12 : In the report view Visual filters(slicers) were added for 5 fields named "associate degree", "bachelor degree", "doctorate degree", "high school" and "masters degree")
 
-  Screenshot of the slicers(filters) was added,
+  Screenshot of the slicers(filters) chart was added;
 
   ![Image](https://github.com/user-attachments/assets/aacdb48e-1f46-4fc7-99da-9827ae6b55fb)
 
 - Step 13 : A pie chart was used to represent attrition by department (R&D), sales, HR) to quickly see which department had the most leavers.
 
-  Screenshot of department attrition
+  Screenshot of department attrition chart was added;
 
   ![Image](https://github.com/user-attachments/assets/4b6175fa-1356-4774-b4aa-8bc51b4a66ed)
 
 - Step 14 : A stacked column chart was used to analyze number of employees by age group,while creating this visual, field named gender was also added to the legend bucket, thus the number of employees are also seggregated according to gender using colour coding and applied conditional formatting to visually categorize each age group.
 
-  Screenshot of number of employees by age group
+  Screenshot of number of employees by age group chart was added;
 
   ![Image](https://github.com/user-attachments/assets/6bb2f1c1-57ba-4b2a-b149-5ff291ecc16e)
 
 - Step 15 : A matrix chart was used to showcase job satisfaction across job roles in the report view area to observe where satisfaction was high or low.
 
-  Screenshot of job satisfactory rating
+  Screenshot of job satisfactory rating chart was added;
 
   ![Image](https://github.com/user-attachments/assets/9e7444be-3a28-4e8b-8e55-61b9b211d552)
 
 - Step 16 : A stacked bar chart was used to highlight attrition by education field to identify which educational backgrounds had higher turnover rates.
 
-  Screenshot of education wise attrition
+  Screenshot of education wise attrition chart was added;
 
   ![Image](https://github.com/user-attachments/assets/14f7f11c-d246-488f-be04-2fb4fb836fd8)
 
@@ -110,7 +110,7 @@ This Power BI dashboard analyzes hr data from jubilyte company, focusing on empl
 
       (2.5) 11 of the attrition employees belongs to "Over 55" age group.
 
-   Screenshot of  attrition rate for different age groups by gender
+   Screenshot of  attrition rate for different age groups by gender chart was added;
 
    ![Image](https://github.com/user-attachments/assets/7ed36d59-bde3-421f-9aea-de244759f3c8)
 
